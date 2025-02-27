@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="question">Question?</string>
+    <string name="next">Next</string>
+    <string name="ffffff">#FFFFFF</string>
+</resources>
